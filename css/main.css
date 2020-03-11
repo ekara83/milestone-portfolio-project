@@ -1,0 +1,110 @@
+/***** BASES STYLES ****/
+
+body {
+font-family: 'Roboto Slab', serif;
+color: #095256;
+}
+
+#work {
+  height: auto;
+}
+#about, #contact {
+  height: 650px;
+}
+
+
+#work, #about, #contact p {
+  font-size: 24px;
+}
+
+#work, #about, #contact h4 {
+  font-size: 24px;
+}
+
+#work, #about, #contact h3 {
+  font-size: 36px;
+}
+
+#work, #about, #contact .full-width {
+  margin: 50px;
+  padding: 50px 50px;
+
+}
+/**** GRID ****/
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+
+}
+.half-width {
+width: 600px;
+float: left;
+
+}
+
+.third-width {
+  width: 400px;
+  float: left;
+  margin:inherit;
+}
+
+/**** HEADER *** /
+
+/**** WORK ****/
+
+
+
+/**** ABOUT ****/
+#about .full-width {
+
+
+}
+#about {
+background-color: #087e8b;
+}
+
+ #about h4 {
+   text-align: center;
+   color: #ffffff;
+
+ }
+#about img {
+  float: right;
+}
+ #about p {
+  color: #ffffff;
+  font-size: 24px;
+  padding-left: 50px;
+  line-height: 35px;
+  text-align: left;
+ }
+
+/**** CONTACT ****/
+
+#contact .full-width {
+  padding: 0 50px;
+}
+
+#contact {
+  background-color: #095156;
+  color: #ffffff;
+  padding: 50px;
+
+}
+
+#contact h3 {
+     text-align: center;
+}
+
+#contact ul {
+    list-style: none;
+}
+#contact ul li {
+     display: inline-block;
+}
+
+/**** Copyright ****/
+footer {
+  text-align: center;
+}
+/*** will probably need padding in this section ****/
