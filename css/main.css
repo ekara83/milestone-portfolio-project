@@ -53,17 +53,25 @@ float: left;
 
 header {
   height: 800px;
-  width: 1200px;
-  background-size: cover;
-  background:
+  background-size:contain;
+  background: url('../img/hero-image.png');
 }
 
 header h1 {
   color: #bdbf09;
-  padding: 20px 0 20px 25px;
+  font-size: 60px;
+  padding: 350px 0px 0px 0px;
+  text-align:center;
 }
 
 header h2 {
+  font-size: 48px;
+  width: 900px;
+  clear: both;
+  padding: 100px 0px 0px 150px;
+  line-height: none;
+  text-align: center;
+  font-weight: normal;
 
 }
 
@@ -77,15 +85,21 @@ header h2 {
   padding: 25px;
 
 }
+#work h3 {
+  text-align: center;
+  padding-bottom:  150px;
+}
+#work h4 {
 
+}
 #work p {
-
  font-size: 24px;
  padding-left: 50px;
  line-height: 35px;
  text-align: left;
 }
 
+#work #
 
 
 /**** ABOUT ****/
