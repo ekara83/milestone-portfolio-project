@@ -53,8 +53,10 @@ float: left;
 
 header {
   height: 800px;
-  background-size:contain;
+  background-position:center;
+  background-size: contain;
   background: url('../img/hero-image.png');
+
 }
 
 header h1 {
@@ -97,9 +99,9 @@ header h2 {
  padding-left: 50px;
  line-height: 35px;
  text-align: left;
+ padding-bottom: 50px;
 }
 
-#work #
 
 
 /**** ABOUT ****/
@@ -145,10 +147,6 @@ background-color: #087e8b;
 
 }
 
-#contact img {
-  margin-left: 50px;
-
-}
 
 #contact h3, h4, p {
      text-align: center;
