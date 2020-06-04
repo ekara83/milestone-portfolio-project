@@ -56,13 +56,14 @@ header {
   background-position:center;
   background-size: contain;
   background: url('../img/hero-image.png');
+  margin-top: auto:
 
 }
 
 header h1 {
   color: #bdbf09;
   font-size: 60px;
-  padding: 350px 0px 0px 0px;
+  padding: 400px 0px 0px 0px;
   text-align:center;
 }
 
@@ -70,7 +71,7 @@ header h2 {
   font-size: 48px;
   width: 900px;
   clear: both;
-  padding: 100px 0px 0px 150px;
+  padding: 50px 0px 0px 150px;
   line-height: none;
   text-align: center;
   font-weight: normal;
